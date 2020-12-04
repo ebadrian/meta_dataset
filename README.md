@@ -1,3 +1,9 @@
+# This repository is a fork of the original meta-dataset github repository. It acts as a repository TAG as the version and requirements of the original repository are changing. This version is used to support the data generation pipeline of the MetaDL competition. 
+
+
+
+
+
 This repository contains accompanying code for the article introducing
 Meta-Dataset,
 [arxiv.org/abs/1903.03096](https://arxiv.org/abs/1903.03096).
